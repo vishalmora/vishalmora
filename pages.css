@@ -1,0 +1,32 @@
+.pp1{
+    
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: 200px
+
+}
+.e-card.e-card-horizontal {
+    display: flex;
+}
+img {
+    margin-right: 56px;
+
+}
+.e-card-header-title{
+    color: blue;
+    font-weight: 620;
+}
+.checkbox{
+    color: green;
+}
+svg.MuiSvgIcon-root.checkbox {
+    margin-left: 13px;
+    padding: 3px;
+}
+.ppages{
+    cursor: pointer;
+
+}
+.iimg{
+    border-radius: 50%;
+}

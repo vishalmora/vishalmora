@@ -1,0 +1,38 @@
+.firastpage{
+    background-color: blueviolet;
+}
+button{
+    padding: 12px 20px;
+    background-color: darkgray;
+    border:1px solid wheat;
+    border-radius:5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-left: 60px;
+    margin-top: 10px;
+
+}
+.input{
+    padding-left: 20px;
+    width: 250px;
+    border-radius: 3px;
+    color: black;
+    background-color: burlywood;
+
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10%;
+}
+h2{
+    margin-left: 40%;
+    margin-top: 15%;
+}
+
+h3{
+    position: absolute;
+    top:65px;
+    margin-right: 188px;
+}
